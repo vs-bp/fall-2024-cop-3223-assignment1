@@ -1,6 +1,7 @@
 //********************************************************
 // fracturing.c
 // Author: Kevin Castro-Escobar
+// UCFID: 5677198
 // Date: 9/8/24
 // Class: COP 3223, Professor Parra
 // Purpose: This program is to develop an understanding for "fracturing"
